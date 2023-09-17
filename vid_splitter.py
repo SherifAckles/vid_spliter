@@ -16,3 +16,7 @@ from moviepy.video.io.VideoFileClip import VideoFileClip
 video = VideoFileClip(input_vid)
 total_duration = video.duration
 
+# Split the video into 30-second segments
+segment_duration = 30  # in seconds
+
+
