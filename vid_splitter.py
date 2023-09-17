@@ -9,4 +9,4 @@ output_dir="output_segments/"
 
 # Create the output directory if it doesn't exist
 import os
-os.makedirs(output_directory, exist_ok=True)
+os.makedirs(output_dir, exist_ok=True)
