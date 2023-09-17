@@ -27,3 +27,7 @@ for start_time in range(0, int(total_duration), segment_duration):
 
     # Define the output file name for the current segment
     output_file = f"{output_dir}segment_{start_time}_{end_time}.mp4"
+    
+    # Extract the segment using ffmpeg_extract_subclip
+    ffmpeg_extract_subclip(input_vid, start_time, end_time, targetname=output_file)
+    
