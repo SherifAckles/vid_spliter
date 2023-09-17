@@ -25,4 +25,5 @@ for start_time in range(0, int(total_duration), segment_duration):
     # Calculate the end time of the current segment
     end_time = start_time + segment_duration
 
-   
+    # Define the output file name for the current segment
+    output_file = f"{output_dir}segment_{start_time}_{end_time}.mp4"
