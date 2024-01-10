@@ -1,7 +1,9 @@
-# vid_spliter
-video splitter for WhatsApp built with python
+# WhatsApp-vid_spliter
+#### Video Demo: 
+#### Description: video splitter for WhatsApp built with python
 
-#on pc py vid_splitter.py
-#on mac python vid_splitter.py
+#on pc py project.py
+#on mac python project.py
 
 #Don't forget to change the video input and the output directory.
+TODO
