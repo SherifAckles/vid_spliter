@@ -5,5 +5,4 @@
 #on pc py project.py
 #on mac python project.py
 
-#Don't forget to change the video input and the output directory.
 TODO
