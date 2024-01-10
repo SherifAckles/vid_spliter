@@ -1,0 +1,2 @@
+To use the WhatsApp Video Splitter:
+1. Install necessary dependencies (tkinter, moviepy). pip install moviepy

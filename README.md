@@ -1,4 +1,4 @@
-# WhatsApp Video Splitter
+# Title: WhatsApp Video Splitter
 #### Video Demo: https://youtu.be/S8l2LFglzhc
 
 ## Overview
@@ -19,7 +19,7 @@ The primary aim of this project is to streamline the sharing of large video file
 
 ## Usage
 To use the WhatsApp Video Splitter:
-1. Install necessary dependencies (tkinter, moviepy).
+1. Install necessary dependencies (tkinter, moviepy). pip install moviepy
 2. Run the Python script.
 3. Use the GUI to select the video file and set the segment duration or size.
 4. Generate smaller clips for sharing on WhatsApp.
